@@ -47,9 +47,5 @@
     <members>Property__c.All</members>
     <name>ListView</name>
   </types>
-  <types>
-    <members>DreamHouse</members>
-    <name>PermissionSet</name>
-  </types>
-  <version>51.0</version>
+    <version>51.0</version>
 </Package>
